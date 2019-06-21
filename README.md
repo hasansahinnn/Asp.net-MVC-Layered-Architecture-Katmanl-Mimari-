@@ -27,3 +27,5 @@ using (UnitOfWork work = new UnitOfWork())
 {
       work.Model1.find(5);
 }
+
+Don't Forget! Web.Config Connection string name should be "DBContextUsage"
