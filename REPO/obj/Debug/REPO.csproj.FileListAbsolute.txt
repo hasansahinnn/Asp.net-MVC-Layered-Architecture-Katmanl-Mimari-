@@ -1,0 +1,12 @@
+c:\Users\inoSoma\documents\visual studio 2015\Projects\Katmanli\REPO\obj\Debug\REPO.csprojResolveAssemblyReference.cache
+c:\Users\inoSoma\documents\visual studio 2015\Projects\Katmanli\REPO\bin\Debug\REPO.dll.config
+c:\Users\inoSoma\documents\visual studio 2015\Projects\Katmanli\REPO\bin\Debug\REPO.dll
+c:\Users\inoSoma\documents\visual studio 2015\Projects\Katmanli\REPO\bin\Debug\REPO.pdb
+c:\Users\inoSoma\documents\visual studio 2015\Projects\Katmanli\REPO\bin\Debug\DAL.dll
+c:\Users\inoSoma\documents\visual studio 2015\Projects\Katmanli\REPO\bin\Debug\EntityFramework.dll
+c:\Users\inoSoma\documents\visual studio 2015\Projects\Katmanli\REPO\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\inoSoma\documents\visual studio 2015\Projects\Katmanli\REPO\bin\Debug\DAL.pdb
+c:\Users\inoSoma\documents\visual studio 2015\Projects\Katmanli\REPO\bin\Debug\EntityFramework.xml
+c:\Users\inoSoma\documents\visual studio 2015\Projects\Katmanli\REPO\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\inoSoma\documents\visual studio 2015\Projects\Katmanli\REPO\obj\Debug\REPO.dll
+c:\Users\inoSoma\documents\visual studio 2015\Projects\Katmanli\REPO\obj\Debug\REPO.pdb
